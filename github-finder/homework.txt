@@ -1,0 +1,13 @@
+Easy
+Оправлять 2 запроса. Первый количество repos, второй инфа о пользователе.
+1. Выводить user
+2. Выводить repos
+3. Выводить avatar
+4. Выводить name
+5. Подчитывать количество его репозиторием
+
+
+Hard
+1. Sort repos name
+2. Sort repos stars
+3. Repository pagination + load more
